@@ -14,7 +14,7 @@
 		0DBEC5FC2C94CA04000DDB14 /* UiComponentizationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DBEC5FB2C94CA04000DDB14 /* UiComponentizationTests.swift */; };
 		0DBEC6062C94CA04000DDB14 /* UiComponentizationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DBEC6052C94CA04000DDB14 /* UiComponentizationUITests.swift */; };
 		0DBEC6082C94CA04000DDB14 /* UiComponentizationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DBEC6072C94CA04000DDB14 /* UiComponentizationUITestsLaunchTests.swift */; };
-		0DBEC6152C94CA8B000DDB14 /* TextUiComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DBEC6142C94CA8B000DDB14 /* TextUiComponent.swift */; };
+		0DEBE8582C9E4E7A00F23951 /* ContentView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DEBE8572C9E4E7A00F23951 /* ContentView2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,7 +45,7 @@
 		0DBEC6012C94CA04000DDB14 /* UiComponentizationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UiComponentizationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DBEC6052C94CA04000DDB14 /* UiComponentizationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UiComponentizationUITests.swift; sourceTree = "<group>"; };
 		0DBEC6072C94CA04000DDB14 /* UiComponentizationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UiComponentizationUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		0DBEC6142C94CA8B000DDB14 /* TextUiComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextUiComponent.swift; sourceTree = "<group>"; };
+		0DEBE8572C9E4E7A00F23951 /* ContentView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,9 +98,9 @@
 			children = (
 				0DBEC5EA2C94CA02000DDB14 /* UiComponentizationApp.swift */,
 				0DBEC5EC2C94CA02000DDB14 /* ContentView.swift */,
+				0DEBE8572C9E4E7A00F23951 /* ContentView2.swift */,
 				0DBEC5EE2C94CA03000DDB14 /* Assets.xcassets */,
 				0DBEC5F02C94CA03000DDB14 /* Preview Content */,
-				0DBEC6142C94CA8B000DDB14 /* TextUiComponent.swift */,
 			);
 			path = UiComponentization;
 			sourceTree = "<group>";
@@ -209,7 +209,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0DBEC5E22C94CA02000DDB14 /* Build configuration list for PBXProject "UiComponentization" */;
+			buildConfigurationList = 0DBEC5E22C94CA02000DDB14 /* Build configuration list for PBXProject "SwiftUIElements" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -261,7 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0DBEC5ED2C94CA02000DDB14 /* ContentView.swift in Sources */,
-				0DBEC6152C94CA8B000DDB14 /* TextUiComponent.swift in Sources */,
+				0DEBE8582C9E4E7A00F23951 /* ContentView2.swift in Sources */,
 				0DBEC5EB2C94CA02000DDB14 /* UiComponentizationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -555,7 +555,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0DBEC5E22C94CA02000DDB14 /* Build configuration list for PBXProject "UiComponentization" */ = {
+		0DBEC5E22C94CA02000DDB14 /* Build configuration list for PBXProject "SwiftUIElements" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DBEC6092C94CA04000DDB14 /* Debug */,
