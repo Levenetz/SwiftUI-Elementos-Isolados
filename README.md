@@ -37,7 +37,7 @@ Pronto! Agora, você pode chamar e utilizar seu componente na view apenas pelo n
 -- Victor Levenetz
 
 
-## Artigo Completo 
+## Artigo Completo (Soon)
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
