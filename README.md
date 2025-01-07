@@ -37,7 +37,6 @@ Pronto! Agora, você pode chamar e utilizar seu componente na view apenas pelo n
 -- Victor Levenetz
 
 
-## Artigo Completo (Soon)
+## Artigo Completo
+[Artigo Medium](https://medium.com/@victorlevenetz/o-novo-catálogo-de-strings-em-swift-a294af2755a6)
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
