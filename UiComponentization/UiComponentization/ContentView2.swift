@@ -36,13 +36,10 @@ struct ContentView2: View {
                 
                 Toggle(isOn: $toggleValue) {
                     if toggleValue == false{
-                        
                         timeControll
-                        
                     }
                     else{
                         timeControllWhite
-                        
                     }
                 }.offset(x: 0, y: 20).padding()
                 
@@ -55,11 +52,6 @@ struct ContentView2: View {
         
     }
 }
-
-
-
-
-
 
 
 extension ContentView2{

@@ -35,7 +35,7 @@ struct ContentView: View {
                     .font(.custom("Noteworthy", size: 45))
                 
                     .foregroundStyle(.white)
-                    .italic() // Também pode aplicar itálico
+                    .italic()
                     .padding()
                     .cornerRadius(10)
                 
@@ -112,7 +112,3 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
-
-
-
-
