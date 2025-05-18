@@ -1,6 +1,5 @@
 # Isolando Elementos em SwiftUI
 
-Um aplicativo simples com uma View única, o propósito é mostrar como funciona uma das melhores formas de integrar elementos isolados ao seu projeto desenvolvido em SwiftUI.
 
 ## Description
 
