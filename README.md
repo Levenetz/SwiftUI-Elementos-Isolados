@@ -30,12 +30,6 @@ extension ContentView{
 Pronto! Agora, você pode chamar e utilizar seu componente na view apenas pelo nome da variável.
 
 
-
-## Autor
-
--- Victor Levenetz
-
-
 ## Artigo Completo
 [Artigo Medium](https://medium.com/@victorlevenetz/swiftui-em-pedaços-a-arte-da-componentização-448ee6fabd43)
 
