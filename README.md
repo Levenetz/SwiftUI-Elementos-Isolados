@@ -38,5 +38,5 @@ Pronto! Agora, você pode chamar e utilizar seu componente na view apenas pelo n
 
 
 ## Artigo Completo
-[Artigo Medium](https://medium.com/@victorlevenetz/o-novo-catálogo-de-strings-em-swift-a294af2755a6)
+[Artigo Medium](https://medium.com/@victorlevenetz/swiftui-em-pedaços-a-arte-da-componentização-448ee6fabd43)
 
